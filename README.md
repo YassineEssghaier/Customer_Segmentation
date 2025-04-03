@@ -67,6 +67,7 @@ To install the necessary libraries, run:
 pip install pandas numpy scikit-learn matplotlib seaborn
 
 Results:
+
 The Elbow Method indicated that k=4 was the optimal number of clusters.
 
 The clusters were visualized using PCA and t-SNE, revealing distinct groupings based on customer behavior.
